@@ -7,6 +7,7 @@ from openai import OpenAI
 
 client = OpenAI(
     api_key="your api key here"
+    # base_url="your base url here"
 )
 
 # Function to find image file with any extension

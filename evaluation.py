@@ -5,6 +5,7 @@ from rouge import Rouge
 
 client = OpenAI(
     api_key="your api key here"
+    # base_url="your base url here"
 )
 
 def calculate_rougeL_score(prediction, reference):
