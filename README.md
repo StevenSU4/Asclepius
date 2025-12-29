@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-   <a href="https://arxiv.org/abs/2402.11217" target="_blank">Full Paper</a>
+   <a href="https://aclanthology.org/2025.acl-long.1178.pdf" target="_blank">Full Paper</a>
 </p>
 
 ## 📖 Overview
